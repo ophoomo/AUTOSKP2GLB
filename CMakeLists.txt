@@ -11,4 +11,3 @@ include_directories(${SKETCHUP_INCLUDE_DIR})
 add_subdirectory(lib)
 add_subdirectory(src)
 
-
